@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">LolPediaClase</string>
+
+        <string name="blitzcrank">Blitzcrank</string>
+        <string name="caitlyn">Caitlyn</string>
+        <string name="camille">Camille</string>
+        <string name="drmundo">Dr. Mundo</string>
+        <string name="ekko">Ekko</string>
+        <string name="ezreal">Ezreal</string>
+        <string name="heimerdinger">Heimerdinger</string>
+        <string name="janna">Janna</string>
+        <string name="jayce">Jayce</string>
+        <string name="jinx">Jinx</string>
+        <string name="orianna">Orianna</string>
+        <string name="renata">Renata Glasc</string>
+        <string name="seraphine">Seraphine</string>
+        <string name="singed">Singed</string>
+        <string name="twitch">Twitch</string>
+        <string name="urgot">Urgot</string>
+        <string name="vi">Vi</string>
+        <string name="viktor">Viktor</string>
+        <string name="warwick">Warwick</string>
+        <string name="zac">Zac</string>
+        <string name="ziggs">Ziggs</string>
+        <string name="zeri">Zeri</string>
+    </resources>
